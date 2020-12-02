@@ -35,6 +35,7 @@ def main():
             print("sleep 600s")
             time.sleep(600)
         except Exception as E:
+            time.sleep(30)
             print(E)
 
 
