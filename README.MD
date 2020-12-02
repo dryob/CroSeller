@@ -6,4 +6,6 @@ pip install -r requirements.txt
 or
 pip3 install -r requirements.txt 
 
-Change api_key and api_secret
+Change api_key and api_secret inside CroSeller.py
+
+Run CroSeller.py
